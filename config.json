@@ -1,0 +1,5 @@
+{
+  "USER_NAME": "user",
+  "MOUNT_DIR": "/path/to/workplace",
+  "APPLICATION_NAME": "scarab_docker_light"
+}
